@@ -390,6 +390,7 @@ function draw() {
     gray1.destroy(); 
     gray3.destroy(); 
     live3.destroy(); 
+    line10.destroy();    
     break;
     }
      
