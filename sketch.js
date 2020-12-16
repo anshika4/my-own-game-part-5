@@ -391,6 +391,7 @@ function draw() {
     gray3.destroy(); 
     live3.destroy(); 
     line10.destroy();    
+    thief.destroy();    
     break;
     }
      
